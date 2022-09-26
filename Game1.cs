@@ -24,7 +24,7 @@ namespace Assignment4
         int speed = 4;
 
         //Animation
-        //int frame;
+        int frame;
         int totalFrames;
         int framepersec;
         float timePerFrame;
@@ -88,7 +88,7 @@ namespace Assignment4
                 }
             }
         }
-
+        //i am hungry 
         protected override void UnloadContent()
         {
 
