@@ -24,7 +24,7 @@ namespace Assignment4
         int speed = 5;
 
         //Animation
-        int frame;
+        //int frame;
         int totalFrames;
         int framepersec;
         float timePerFrame;
