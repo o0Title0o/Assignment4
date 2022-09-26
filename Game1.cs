@@ -21,7 +21,7 @@ namespace Assignment4
 
         //move
         int direction = 0;
-        int speed = 5;
+        int speed = 4;
 
         //Animation
         //int frame;
@@ -203,6 +203,6 @@ namespace Assignment4
                 totalElapsed -= timePerFrame;
             }
         }
-        //Hello
+        //ทูน่าชอบกินแซลม่อน
     }
 }
