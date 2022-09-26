@@ -11,7 +11,7 @@ namespace Assignment4
         SpriteBatch spriteBatch;
         Texture2D ballTexture;
         Texture2D charTexture;
-
+        /*dd*/
         Vector2 charPosition;
         Vector2[] ballPosition = new Vector2[4];
         int[] ballcolor = new int[4];
